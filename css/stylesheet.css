@@ -1,0 +1,46 @@
+li {
+    list-style: none;
+  }
+  
+a {
+    text-decoration: none;
+  }
+
+.top-contents{
+    text-align:center;
+}
+
+.main-logo{
+    color:white;
+    opacity: 0.6;
+    font-size: 70px;
+    margin-top: 150px;
+    margin-bottom: 225px;
+
+}
+
+.box{
+    padding: 5px 15px;
+    background: rgba(102,183,236,0.7);
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.first{
+    margin-bottom:25px;
+}
+
+span{
+    margin-right: 10px;
+}
+
+a:hover{
+    background: rgba(102,183,236,1);
+}
+
+.links{
+    display: none;
+}
