@@ -6,6 +6,3 @@
 ・<a href="https://jquery.com/">JQuery</a><br>
 ・<a href="https://github.com/mntn-dev/t.js">t.js</a><br>
 ・<a href="https://fontawesome.com/">Font AweSome</a>
-
-# ・contact
-・<a href="https://twitter.com/000dra">Twitter</a>
